@@ -50,9 +50,9 @@
 
 <div align="center">
 
-![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamponez&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true)
+![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamponez&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCamponez&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCamponez&layout=compact&theme=tokyonight)
+
 
 </div>
 
