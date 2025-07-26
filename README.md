@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,cs,dotnet,mysql,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,cs,dotnet,mysql,git,github" />
 
 </div>
 
@@ -41,7 +41,7 @@
 - 👨‍⚕️ [Dr. Henrique A. Constante - Site Advogado](https://drhenriqueaconstante.com.br/)  
   Site institucional para advogado especialista, com foco em acessibilidade e agendamento.
 
-- 💼 [Portfólio pessoal](https://thiagocamponez.site/)  
+- 💼 [Portfólio pessoal](https://thiagocamponez.tech/)  
   Meu portfólio online, com destaque para projetos, tecnologias e trajetória profissional.
 
 ---
@@ -67,7 +67,7 @@
 - Alura: C# e .NET, Microsserviços, Orientação a Objetos  
 - Curso em Vídeo: HTML, CSS, PHP, Python  
 - Rocketseat: DevLinks  
-- Totvs Fluig, Docker, VPS & Cloud (GCP / Oracle)
+- Totvs Fluig, VPS & Cloud (GCP / Oracle)
 
 ---
 
